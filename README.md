@@ -17,7 +17,9 @@ Proyek ini bekerja dengan cara mengambil gambar KTP sebagai input, kemudian mela
 Cara penggunaan telah dijelaskan secara detail pada file ipynb yang telah disediakan
 
 # Kontribusi
-Kontribusi terhadap proyek ini sangat dipersilakan! Jika Anda memiliki saran, perbaikan bug, atau peningkatan fitur, silakan buat pull request dan kami akan senang menerima kontribusi Anda.
+Kontribusi terhadap proyek ini sangat dipersilakan! Jika Anda memiliki saran, perbaikan bug, atau peningkatan fitur, silakan buat pull request dan kami akan senang menerima kontribusi Anda. Kami memiliki rencana untuk proyek ini sebagai berikut
+- Terus meningkatkan hasil akurasi teks setelah proses OCR
+- Membuat API menggunakan flask sehingga siapapun yang ingin membuat projek ekstraksi KTP cukup hanya pull ke server mereka saja, dan menjalankan flask tersebut
 
 # Catatan!
 Proyek ini masih dalam tahap pengembangan awal, sehingga mungkin terdapat beberapa keterbatasan atau bug. Kami akan berusaha untuk memperbaikinya secepat mungkin. Jika Anda menemukan masalah, jangan ragu untuk membuka issue.
